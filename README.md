@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @niloy-mandal
-- 👀 I’m interested in web application and image processing
-- 🌱 I’m currently learning deep learning
+- 👀 Interested in signal and system
+- 🫀 Deal with sound
+- 🌱 Data Engineer
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 mail me at niloycmandal@gmail.com or r/niloy_mandal
 
